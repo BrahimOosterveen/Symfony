@@ -1,0 +1,14 @@
+{
+  "require": {
+    "monolog/monolog": ">=1.0.0"
+  },
+
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMapcomposer update": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
